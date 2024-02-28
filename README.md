@@ -20,7 +20,7 @@
 - C, C++, HTML, Java, CSS, Bootstrap, MySQL, AngularJS, AJAX, jQuery, Node.js, Express, Nodemailer.
 
 ## 🛠 I Use
-- **Languages:** C, C++, HTML, Java, CSS, JavaScript
+- **Languages:** C, C++, HTML, CSS, JavaScript
 - **Frontend:** Bootstrap, AngularJS, AJAX, jQuery
 - **Backend:** Node.js, Express
 - **Database:** MySQL
