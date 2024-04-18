@@ -30,8 +30,7 @@
 ## 🤝 I'm Open to Collaborations
 - Currently, I'm exploring opportunities and open to collaborations on innovative projects and startup ideas. If you're passionate about building something impactful, let's connect and turn ideas into reality!
 
-- 📫 Reach me at goyalmoney95@gmail.com .
-- 📱 Connect with me on [linkedin.com/in/money-goyal](https://www.linkedin.com/in/money-goyal/)
+
 
 ## 😄 Pronouns
 - He/Him
