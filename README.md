@@ -23,7 +23,7 @@
 - **Languages:** C, C++, HTML, CSS, JavaScript
 - **Frontend:** Bootstrap, AngularJS, AJAX, jQuery
 - **Backend:** Node.js, Express
-- **Database:** MySQL
+- **Database:** MySQL , MongoDb
 - **Tools:** Nodemailer
 
 
